@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Dataset (VERY IMPORTANT)
+Helmet_Detection_DataSet/
+
+# Outputs
+output/
+runs/
+
+# Media files
+*.mp4
+*.avi
+*.jpg
+*.png
+
+# System files
+.DS_Store
+Thumbs.db
